@@ -1,0 +1,10 @@
+\\TS251\Windows\VS Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\TS251\Windows\VS Projects\HelloWorld\bin\Debug\HelloWorld.exe
+\\TS251\Windows\VS Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+\\TS251\Windows\VS Projects\HelloWorld\bin\Debug\HelloWorld.xml
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.exe
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.xml
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+\\TS251\Windows\VS Projects\HelloWorld\obj\Debug\HelloWorld.FileMover.resources
